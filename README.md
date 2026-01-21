@@ -28,9 +28,9 @@ Construir um projeto Spring Boot que:
 3. Execute a aplicação:
 4. Acesse o H2 Console no navegador: http://localhost:8080/h2-console
 5. Configure a conexão: 
-JDBC URL: jdbc:h2:mem:testdb
-User: sa
-Password:
+- JDBC URL: jdbc:h2:mem:testdb
+- User: sa
+- Password:
 6. Clique em **Connect**.
 
 ## 👨‍💻 Autor
